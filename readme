@@ -1,1 +1,2 @@
 This is a Custom logger for VSTest.Console.exe for running unit tests. The default console logger was too verbose. This implementation just shows the summary of test runs, and if there are failing tests, it shows summary of the first failed test.
+Read more at http://dotnetsurfers.com/blog/2013/07/12/customizing-output-for-unit-test-runner-with-mstest/
